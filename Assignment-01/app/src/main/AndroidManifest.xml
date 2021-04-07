@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bsef18m043_a_01_animations">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BSEF18M043_A_01_Animations">
+        <activity android:name=".A"></activity>
+        <activity android:name=".RR" />
+        <activity android:name=".Z" />
+        <activity android:name=".Y" />
+        <activity android:name=".X" />
+        <activity android:name=".W" />
+        <activity android:name=".V" />
+        <activity android:name=".U" />
+        <activity android:name=".T" />
+        <activity android:name=".S" />
+        <activity android:name=".Q" />
+        <activity android:name=".P" />
+        <activity android:name=".O" />
+        <activity android:name=".N" />
+        <activity android:name=".M" />
+        <activity android:name=".L" />
+        <activity android:name=".K" />
+        <activity android:name=".J" />
+        <activity android:name=".I" />
+        <activity android:name=".H" />
+        <activity android:name=".G" />
+        <activity android:name=".F" />
+        <activity android:name=".E" />
+        <activity android:name=".D" />
+        <activity android:name=".C" />
+        <activity android:name=".B" />
+        <activity android:name=".A_Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
